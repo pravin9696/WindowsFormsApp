@@ -12,6 +12,7 @@ namespace WindowsFormsApp
 {
     public partial class NumberOperation : Form
     {
+        private int aaaa;
         public NumberOperation()
         {
             InitializeComponent();
